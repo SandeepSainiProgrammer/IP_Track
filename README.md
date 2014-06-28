@@ -7,4 +7,4 @@ Download GeoLite Free Downloadable Databases : http://dev.maxmind.com/geoip/lega
 
 Download pygeoip :http://code.google.com/p/pygeoip/
 
-How to use(Video Tutorial) :
+How to use(Video Tutorial) : http://www.youtube.com/watch?v=FrqNIK4rECM
