@@ -14,7 +14,7 @@ def TargetIP(target):
 	long = rec['longitude']
 	lat = rec['latitude']
 	print '[*] Target: ' + target + ' Geo-located. '
-	print '[+] '+str(city)+', '+str(region)+', '+str(country)
+	print '[+] Adress: '+str(city)+', '+str(region)+', '+str(country)
 	print '[+] Latitude: '+str(lat)+ ', Longitude: '+ str(long)
 
 host = raw_input('Enter Target :')
